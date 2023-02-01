@@ -1,0 +1,30 @@
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\New folder (10)\FigureArea\bin\Debug\net6.0\FigureArea.exe
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\New folder (10)\FigureArea\bin\Debug\net6.0\FigureArea.deps.json
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\New folder (10)\FigureArea\bin\Debug\net6.0\FigureArea.runtimeconfig.json
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\New folder (10)\FigureArea\bin\Debug\net6.0\FigureArea.dll
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\New folder (10)\FigureArea\bin\Debug\net6.0\FigureArea.pdb
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\New folder (10)\FigureArea\obj\Debug\net6.0\FigureArea.csproj.AssemblyReference.cache
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\New folder (10)\FigureArea\obj\Debug\net6.0\FigureArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\New folder (10)\FigureArea\obj\Debug\net6.0\FigureArea.AssemblyInfoInputs.cache
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\New folder (10)\FigureArea\obj\Debug\net6.0\FigureArea.AssemblyInfo.cs
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\New folder (10)\FigureArea\obj\Debug\net6.0\FigureArea.csproj.CoreCompileInputs.cache
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\New folder (10)\FigureArea\obj\Debug\net6.0\FigureArea.dll
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\New folder (10)\FigureArea\obj\Debug\net6.0\refint\FigureArea.dll
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\New folder (10)\FigureArea\obj\Debug\net6.0\FigureArea.pdb
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\New folder (10)\FigureArea\obj\Debug\net6.0\FigureArea.genruntimeconfig.cache
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\New folder (10)\FigureArea\obj\Debug\net6.0\ref\FigureArea.dll
+C:\Users\Kakha\Desktop\gitze_Unda_Avtvirto\FigureArea\FigureArea\bin\Debug\net6.0\FigureArea.exe
+C:\Users\Kakha\Desktop\gitze_Unda_Avtvirto\FigureArea\FigureArea\bin\Debug\net6.0\FigureArea.deps.json
+C:\Users\Kakha\Desktop\gitze_Unda_Avtvirto\FigureArea\FigureArea\bin\Debug\net6.0\FigureArea.runtimeconfig.json
+C:\Users\Kakha\Desktop\gitze_Unda_Avtvirto\FigureArea\FigureArea\bin\Debug\net6.0\FigureArea.dll
+C:\Users\Kakha\Desktop\gitze_Unda_Avtvirto\FigureArea\FigureArea\bin\Debug\net6.0\FigureArea.pdb
+C:\Users\Kakha\Desktop\gitze_Unda_Avtvirto\FigureArea\FigureArea\obj\Debug\net6.0\FigureArea.csproj.AssemblyReference.cache
+C:\Users\Kakha\Desktop\gitze_Unda_Avtvirto\FigureArea\FigureArea\obj\Debug\net6.0\FigureArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kakha\Desktop\gitze_Unda_Avtvirto\FigureArea\FigureArea\obj\Debug\net6.0\FigureArea.AssemblyInfoInputs.cache
+C:\Users\Kakha\Desktop\gitze_Unda_Avtvirto\FigureArea\FigureArea\obj\Debug\net6.0\FigureArea.AssemblyInfo.cs
+C:\Users\Kakha\Desktop\gitze_Unda_Avtvirto\FigureArea\FigureArea\obj\Debug\net6.0\FigureArea.csproj.CoreCompileInputs.cache
+C:\Users\Kakha\Desktop\gitze_Unda_Avtvirto\FigureArea\FigureArea\obj\Debug\net6.0\FigureArea.dll
+C:\Users\Kakha\Desktop\gitze_Unda_Avtvirto\FigureArea\FigureArea\obj\Debug\net6.0\refint\FigureArea.dll
+C:\Users\Kakha\Desktop\gitze_Unda_Avtvirto\FigureArea\FigureArea\obj\Debug\net6.0\FigureArea.pdb
+C:\Users\Kakha\Desktop\gitze_Unda_Avtvirto\FigureArea\FigureArea\obj\Debug\net6.0\FigureArea.genruntimeconfig.cache
+C:\Users\Kakha\Desktop\gitze_Unda_Avtvirto\FigureArea\FigureArea\obj\Debug\net6.0\ref\FigureArea.dll
